@@ -1,5 +1,14 @@
 #include <iostream>
+#include "lib.h"
 
-int main(){
-  return 0;
+using namespace std;
+int main() {
+    char a;
+    cin >>a;
+    if (convL(a)){
+        cout<<a<<endl;
+    }else{
+        cout<<"error"<<endl;
+    }
+    return 0;
 }
