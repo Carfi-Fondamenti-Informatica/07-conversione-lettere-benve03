@@ -8,7 +8,7 @@ int main() {
     if (convL(a)){
         cout<<a<<endl;
     }else{
-        cout<<"error"<<endl;
+        cout<<"errore"<<endl;
     }
     return 0;
 }
