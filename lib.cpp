@@ -5,10 +5,8 @@ bool convL (char & a) {
             a+=32;
         } else {
             a-=32; 
-        }
-        return 1;
-    }
-    else {
+        } return 1;
+    } else {
         return 0;
     }
 }
