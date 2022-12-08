@@ -1,1 +1,1 @@
-
+bool convL (char&)
