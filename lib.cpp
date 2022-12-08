@@ -4,7 +4,7 @@ bool convL (char & a) {
         if (a>=65 && a<=90) {
             a+=32;
         } else {
-            a-=32;
+            a-=32; 
         }
         return 1;
     }
